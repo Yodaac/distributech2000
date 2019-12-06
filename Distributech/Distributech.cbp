@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Distributech" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Distributech" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Distributech" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="Distributor" />
+			<Add directory="include" />
+			<Add directory="Mock" />
+			<Add directory="Products" />
+			<Add directory="Repository" />
+			<Add directory="Transaction" />
+			<Add directory="Users" />
+		</Compiler>
+		<Linker>
+			<Add library="jsoncpp" />
+		</Linker>
+		<Unit filename="Distributor/Distributor.cpp" />
+		<Unit filename="Distributor/Distributor.h" />
+		<Unit filename="Distributor/TSingleton.h" />
+		<Unit filename="Mock/MockCoffeeMaker.h" />
+		<Unit filename="Mock/MockCoinMachine.h" />
+		<Unit filename="Mock/MockDistributorMecanism.h" />
+		<Unit filename="Mock/MockNFCReader.h" />
+		<Unit filename="Products/Product.cpp" />
+		<Unit filename="Products/Product.h" />
+		<Unit filename="Repository/JsonFileRepository.cpp" />
+		<Unit filename="Repository/JsonFileRepository.h" />
+		<Unit filename="Users/NFCUser.cpp" />
+		<Unit filename="Users/NFCUser.h" />
+		<Unit filename="include/CoffeMaker.h" />
+		<Unit filename="include/CoinMachine.h" />
+		<Unit filename="include/DistributorMechanism.h" />
+		<Unit filename="include/NFCReader.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

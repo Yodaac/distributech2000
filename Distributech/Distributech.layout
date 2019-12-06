@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Distributor/Distributor.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6895" topLine="259" />
+		</Cursor>
+	</File>
+	<File name="Mock/MockCoinMachine.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1338" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Repository/JsonFileRepository.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="226" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="include/NFCReader.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="364" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/DistributorMechanism.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="847" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="Mock/MockDistributorMecanism.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="275" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/CoinMachine.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1004" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="Mock/MockNFCReader.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="460" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="Users/NFCUser.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="795" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Products/Product.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="192" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include/CoffeMaker.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="469" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2460" topLine="21" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="38" />
+			<Collapse line="63" />
+			<Collapse line="110" />
+		</Folding>
+	</File>
+	<File name="Mock/MockCoffeeMaker.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="476" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Repository/JsonFileRepository.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="798" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="Products/Product.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1143" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="Distributor/Distributor.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10879" topLine="162" />
+		</Cursor>
+		<Folding>
+			<Collapse line="110" />
+			<Collapse line="143" />
+			<Collapse line="157" />
+			<Collapse line="173" />
+			<Collapse line="310" />
+			<Collapse line="320" />
+			<Collapse line="513" />
+			<Collapse line="526" />
+			<Collapse line="539" />
+		</Folding>
+	</File>
+	<File name="Users/NFCUser.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1265" topLine="50" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
